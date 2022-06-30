@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "5eb148cd4554feca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bd4555e44aa77e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction to Python.md",
+            "mode": "source"
+          }
+        },
+        "group": "7bef5c73975be21d"
+      },
+      {
+        "id": "256d5eb06e79f467",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction to Python.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7bef5c73975be21d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "359749d879232edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e08e5a375ea9d22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5338c765116214e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e382f09bd41d709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01ababcbb9c95078",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c054b9658d4fef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd374bb3b6b6d3c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction to Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d0bd4555e44aa77e",
+  "lastOpenFiles": [
+    "Introduction to Python.md"
+  ]
+}
